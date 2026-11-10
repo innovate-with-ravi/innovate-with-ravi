@@ -33,11 +33,11 @@ I am a graduate software engineering student passionate about building resilient
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
 | **db_designer** | TypeScript, React, Tailwind, SQL | Interactive entity-relationship visual modeler with real-time SQL DDL generator and schema export. | [Repo](https://github.com/innovate-with-ravi/db_designer) |
-| **IP-SAKTI-SAHAYAK** | Python, FastAPI, Next.js, Vector DB | Full-stack citation-grounded RAG AI assistant for traditional knowledge & IP compliance (SIH). | [Repo](https://github.com/celestialgeeks/ip-sakti-sahayak) |
-| **Munim Shop Manager** | Node.js, Express, React, Database | Digital ledger, billing, and inventory management platform for retail shop workflows with GST tracking. | [Repo](https://github.com/innovate-with-ravi/Munim-shop-manager-) |
-| **OPS-Copilot** | Python, LLM / MCP, SRE Tooling | AI-driven operations copilot automating incident triage, telemetry parsing, and diagnostic assistance. | [Repo](https://github.com/innovate-with-ravi/OPS-Copilot) |
-| **SIH ETL Pipeline** | Python, PyPDF/OCR, Markdown Engine | High-throughput data extraction pipeline converting messy, complex PDFs into structured Markdown for LLMs. | [Repo](https://github.com/innovate-with-ravi) |
-| **DSA & Code Evaluator** | Python / C++, AST, AI Analysis | Tooling for algorithmic code validation, complexity estimation, and automated submission evaluation. | [Repo](https://github.com/innovate-with-ravi) |
+| **IP-SAKTI-SAHAYAK** | TypeScript, FastAPI, Next.js, Vector DB | Full-stack citation-grounded RAG AI assistant for traditional knowledge & IP compliance (SIH). | [Repo](https://github.com/innovate-with-ravi/IP-SAKTI-SAHAYAK) |
+| **Munim-shop-manager-** | LangGraph, Node.js, Python, React | Full-stack shop manager & digital ledger with AI agent workflows, inventory, and GST tracking. | [Repo](https://github.com/innovate-with-ravi/Munim-shop-manager-) |
+| **autonomous-ops-copilot** | Python, LLM / MCP, SRE Tooling | Autonomous AI operations copilot automating incident triage, system telemetry parsing, and diagnostics. | [Repo](https://github.com/innovate-with-ravi/autonomous-ops-copilot) |
+| **SIH-scraped-data** | Python, PyPDF/OCR, Markdown Engine | High-throughput data extraction ETL pipeline converting complex PDFs into structured Markdown for LLMs. | [Repo](https://github.com/innovate-with-ravi/SIH-scraped-data) |
+| **dsa-evaluator** | TypeScript, Node.js, AST / AI Analysis | Automated algorithmic code validation, complexity estimation, and submission evaluation engine. | [Repo](https://github.com/innovate-with-ravi/dsa-evaluator) |
 
 ---
 
